@@ -30,7 +30,7 @@ You can install the necessary libraries using pip:
 pip install pandas scikit-learn
 ```
 
-## Usage
+## Usage(clone the repo onto computer and navigate to it)
 
 1. Run the main script to train the model and make predictions.
 
